@@ -94,11 +94,11 @@
 
 ## 三、一个真实操作例子
 
-假设老师讲 AF5336 第03讲第2页，并强调 risk is an input to and an output from strategy：
+假设老师讲 COURSE101 第03讲第2页，并强调 risk is an input to and an output from strategy：
 
-1. 在 [[AF5336_03_Ch01_The_Global_Risk_Environment.pdf]] 第2页选中这句话；
+1. 在 [[COURSE101_03_Global_Risk_Environment.pdf]] 第2页选中这句话；
 2. 点击 **Yellow**；
-3. 回到 [[AF5336 第03讲 全球风险环境]] 的第1节，把光标放在相关段落后；
+3. 回到 [[COURSE101 第03讲 全球风险环境]] 的第1节，把光标放在相关段落后；
 4. 按 **⌘⌥T**，输入 Yellow，选择“课堂批注_01_Yellow_老师强调”；
 5. 模板出现后立即按 **⌘V**，再补充：
 
