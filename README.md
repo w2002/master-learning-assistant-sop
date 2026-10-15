@@ -24,7 +24,6 @@
 - [`templates/`](templates/)：课程首页、中文学习版、English Review、知识点、习题解析和课堂彩色批注模板。
 - [`docs/PDF++标色与双链说明书.md`](docs/PDF++标色与双链说明书.md)：课堂中将 PDF 标注链接回正式笔记的方法。
 - [`docs/知识图谱使用说明.md`](docs/知识图谱使用说明.md)：课程知识点图谱的筛选与使用规则。
-- [`PROJECT_SUMMARY_CN.md`](PROJECT_SUMMARY_CN.md)：1000 字以内的中文项目总结，可直接用于项目申报或展示表单。
 
 ## 设计原则
 
